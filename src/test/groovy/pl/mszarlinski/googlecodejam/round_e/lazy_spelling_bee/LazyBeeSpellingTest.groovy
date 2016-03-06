@@ -20,5 +20,6 @@ class LazyBeeSpellingTest extends spock.lang.Specification {
             'aa'    | 1
             'abcde' | 108
             'x'     | 1
+            'aabbcc'| 16
     }
 }
